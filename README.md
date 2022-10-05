@@ -2,16 +2,8 @@
 
 
 
-Here are some ideas to get you started:
+Welcome to my Github Page
 
-
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
- ⚡ Fun fact: ...
 
 `about me :`
 ---
@@ -55,6 +47,8 @@ Here are some ideas to get you started:
 ⚡ `technologies i'm using :`
 ---
 
-
+![my badge](https://badgen.net/badge/git/vcs/yellow?icon=git)
+![my badge](https://badgen.net/badge/github/vcs/white?icon=github)
+![my badge](https://badgen.net/badge/Django/Developer/purple?icon=python)
 
 
