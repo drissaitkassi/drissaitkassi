@@ -20,21 +20,21 @@ Welcome to my Github Page
   <li>
   <span>
 </br>
-<a href="https://www.akdriss.dev"><img src="https://cdn-icons-png.flaticon.com/512/1159/1159283.png" width="100" hight="100"></a>
+<a href="https://www.akdriss.dev"><img src="https://cdn-icons-png.flaticon.com/512/1159/1159283.png" width="50" hight="50"></a>
 </img>
 </span>
   </li>
     <li>
   <span>
 </br>
-<a href="https://www.linkedin.com/in/drissaitkassi/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" width="100" hight="100"></a>
+<a href="https://www.linkedin.com/in/drissaitkassi/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" width="50" hight="50"></a>
 </img>
 </span>
   </li>
     <li>
   <span>
 </br>
-<a href="https://www.akdriss.devx"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="100" hight="100"></a>
+<a href="https://www.youtube.com/channel/UC3cfK5ZlfnyHNlfhG2FvlPw"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="50" hight="50"></a>
 </img>
 </span>
   </li>
@@ -46,9 +46,15 @@ Welcome to my Github Page
 
 ⚡ `technologies i'm using :`
 ---
+<br>
 
-![my badge](https://badgen.net/badge/git/vcs/yellow?icon=git)
-![my badge](https://badgen.net/badge/github/vcs/white?icon=github)
-![my badge](https://badgen.net/badge/Django/Developer/purple?icon=python)
+![my badge](https://badgen.net/badge/git/github/red?icon=git)
+![my badge](https://badgen.net/badge/Python/Django/purple?icon=pypi)
+![my badge](https://badgen.net/badge/Dart/Flutter/blue?icon=dart)
+![my badge](https://badgen.net/badge/Postgres/sql/yellow?icon=postgresql)
+![my badge](https://badgen.net/badge/Html/CSS/purple?)
+![my badge](https://badgen.net/badge/bootstrap/css/yellow?)
+![my badge](https://badgen.net/badge/UXUI/Figma/green?)
+![my badge](https://badgen.net/badge/Javascript/Vuejs/yellow?)
 
 
