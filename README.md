@@ -9,7 +9,7 @@ Welcome to my Github Page
 ---
 
 
-'Hi my name is Ait Kassi Driss I’m a passionate self-taught software developer based in morocco north Africa, Working on full stack web and mobile applications. Started my journey in 2019, always looking forward to learn new technologies and evolve as a developer, And Make a positive impact on more and more people. Fun facts I’m a music lover I play multiple instruments and I create music for virtually any genre, I’m also fascinated by space and astrophysics which is reflected on my portfolio design . Thank you for stopping by and taking the time to read through looking forward to meet you in the wild Stay safe'
+'Hi my name is Ait Kassi Driss I’m a passionate software developer based in morocco north Africa, Working on full stack web and mobile applications. Started my journey in 2020, always looking forward to learn new technologies and evolve as a developer, And Make a positive impact on more and more people. Fun facts I’m a music lover I play multiple instruments and I create music for virtually any genre, I’m also fascinated by space and astrophysics which is reflected on my portfolio design . Thank you for stopping by and taking the time to read through looking forward to meet you in the wild Stay safe'
 
 <br>
 
